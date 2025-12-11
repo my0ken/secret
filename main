@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confession</title>
+    <style>
+        body { font-family: 'Georgia', serif; margin: 40px; background-color: #f9f9f9; color: #333; line-height: 1.6; }
+        .container { max-width: 700px; margin: auto; padding: 30px; background: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: #d9534f; }
+        p { font-size: 18px; }
+        .signature { text-align: right; margin-top: 20px; font-style: italic; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Confession</h1>
+        <p>Dear Migs,</p>
+        <p>Hello! If you’re reading this, baka may idea ka na about what this is, pero I’ll say it honestly and chill.</p>
+        <p>The first time we met, hindi ko in-expect na may isang taong sobrang bubbly and friendly agad sa akin. You made me feel welcome, even if bago ako sa environment niyo, and I genuinely appreciated that.</p>
+        <p>Over time, nagkaroon ako ng feelings for you. Hindi ko naman siya planado or hinanap—nangyari lang habang mas nakilala kita.</p>
+        <p>But I really value our friendship, and I don’t want this to feel heavy or awkward for you. You don’t have to say anything right now or at all. Whatever you feel, okay lang talaga, and I’ll adapt.</p>
+        <p>Gusto ko lang maging honest kasi you matter to me.</p>
+        <p>I like you.</p>
+        <p>Pero, of course, no pressure, no expectations.</p>
+        <p>With love,<br>Sid</p>
+    </div>
+</body>
+</html>
